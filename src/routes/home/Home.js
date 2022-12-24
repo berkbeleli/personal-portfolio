@@ -1,3 +1,6 @@
+import ContactPreview from "./Contact-Preview";
+import HeadPreview from "./Head-Preview";
+import PortfolioPreview from "./Portfolio-Preview";
 
 
 const HomePage = () => {
@@ -5,7 +8,10 @@ const HomePage = () => {
 	
 	return (
 		<document>
-
+			<HeadPreview />
+			<PortfolioPreview />
+			<ContactPreview />
+			
 		</document>
 	)
 }
