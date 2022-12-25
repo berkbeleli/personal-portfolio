@@ -1,12 +1,13 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { Home } from "./routes/router.js";
+import { Home, Contact } from "./routes/index.js";
 import { Navigation } from './components/index';
 import "./core-ui/Styles.sass";
 import './core-ui/Hover.sass';
 import './routes/home/Home.sass';
 import './components/footer/Footer.sass'
 import './components/navigation/Navigation.sass'
+import './routes/contact/Contact.sass'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
     <Navigation />
       <Routes>
           <Route path="/" element={<Home />}/>
+          <Route path="/contact" element={<Contact />}/>
       </Routes>
    </Router>
   );

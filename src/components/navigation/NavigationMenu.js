@@ -40,7 +40,7 @@ const activeNavLink = ({ isActive }) =>
 		  Portfolio
 		</NavLink>
 		<NavLink
-		  to="/"
+		  to="/contact"
 		  className={activeNavLink}
 		  onClick={() => {
 			ResetLocation();
