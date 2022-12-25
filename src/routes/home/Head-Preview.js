@@ -6,10 +6,10 @@ const HeadPreview = () => {
       <h1 className="header-font white-text h1-tag">
         Hi, I'm <br></br>
         <em className="blue-text">Berk</em>
-        <br></br>Computer Engineer
+        <br></br>Software Engineer
       </h1>
       <p className="gray-text p-tag">Full Stack Development</p>
-      <Link className="blue-text">Check my works</Link>
+      <Link className="blue-text" to="/portfolio">Check my works</Link>
     </article>
   );
 };

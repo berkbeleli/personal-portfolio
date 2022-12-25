@@ -43,7 +43,7 @@ const ProjectsPreviewData = [
     src: "https://www.dugunbuketi.com/dugun-yardimcin/",
     source: "https://www.dugunbuketi.com/dugun-yardimcin/",
     description:
-      "This project for people that are looking for organization firms. They can choose from options after completing the selections they will receive an email according to their choices.",
+      "This project for people that are looking for organization firms. They can choose from options after completing the selections they will receive an e-mail according to their choices.",
   },
   {
     id: "college-management",
@@ -96,7 +96,7 @@ const ProjectsData = [
 		src: "https://www.dugunbuketi.com/dugun-yardimcin/",
 		source: "https://www.dugunbuketi.com/dugun-yardimcin/",
 		description:
-		  "This project for people that are looking for organization firms. They can choose from options after completing the selections they will receive an email according to their choices.",
+		  "This project for people that are looking for organization firms. They can choose from options after completing the selections they will receive an e-mail according to their choices.",
 	  },
 	  {
 		id: "college-management",
