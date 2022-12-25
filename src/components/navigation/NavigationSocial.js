@@ -1,7 +1,7 @@
 import Linkedin from "../../assets/images/socials/linkedin.svg";
 import Github from "../../assets/images/socials/github.svg";
-import Codepen from "../../assets/images/socials/codepen.svg";
-const NavigationSocials = () => {
+
+const NavigationSocial = () => {
   return (
     <section className="social-media">
        <a
@@ -22,4 +22,4 @@ const NavigationSocials = () => {
   );
 };
 
-export default NavigationSocials;
+export default NavigationSocial;
