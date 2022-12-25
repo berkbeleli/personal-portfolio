@@ -1,4 +1,4 @@
-import AboutMe from "../about/AboutMe.js/index.js";
+import AboutMe from "../about/AboutMe";
 import Stack from "../about/Stack.js";
 
 const AboutPreview = () => {

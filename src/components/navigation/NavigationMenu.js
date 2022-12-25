@@ -20,7 +20,7 @@ const activeNavLink = ({ isActive }) =>
 		  Home
 		</NavLink>
 		<NavLink
-		 to="/"
+		 to="/about"
 		  onClick={() => {
 			ResetLocation();
 			props.closeMenu();
