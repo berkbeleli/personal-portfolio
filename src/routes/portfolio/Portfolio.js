@@ -4,7 +4,7 @@ import PortfolioDescription from "./PortfolioDescription";
 import Projects from "./Projects";
 
 const Portfolio = () => {
-	document.title = "Portfolio | Catherine Mitagvaria";
+	document.title = "Portfolio | Berk Beleli";
 	return (
 	  <article className="portfolio-main">
 		<PortfolioDescription />

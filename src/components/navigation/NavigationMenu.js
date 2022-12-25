@@ -30,7 +30,7 @@ const activeNavLink = ({ isActive }) =>
 		  About
 		</NavLink>
 		<NavLink
-		  to="/"
+		  to="/portfolio"
 		  className={activeNavLink}
 		  onClick={() => {
 			ResetLocation();
