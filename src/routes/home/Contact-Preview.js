@@ -1,3 +1,4 @@
+import SendEmail from '../../components/SendEmail';
 const ContactPreview = () => {
   return (
     <article className="contact">
@@ -7,6 +8,7 @@ const ContactPreview = () => {
         and interesting projects! Feel free to contact me if you have any other
         requests or questions regarding web project developments.
       </p>
+      <SendEmail />
     </article>
   );
 };

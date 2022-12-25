@@ -1,4 +1,4 @@
-import DownloadIcon from "../../assets/images/download.png";
+import DownloadIcon from "../../assets/images/download.svg";
 
 const DownloadResume = () => {
   return (

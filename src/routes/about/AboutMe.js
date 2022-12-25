@@ -8,7 +8,7 @@ const AboutMe = () => {
 		  to consistency, meeting deadlines, and utilizing all available resources
 		  to achieve results. I enjoy creating beautiful, accessible, and
 		  responsive websites using HTML, CSS, Tailwind, Sass, SCSS, Vanilla
-		  JavaScript, React, Angular, Java, Spring. Effective use of time, problem-solving, and
+		  JavaScript, React, Angular, Java, Spring Framework. Effective use of time, problem-solving, and
 		  communication skills help me show a positive attitude in complex
 		  situations, and my desire to learn quickly adapts me to changing
 		  situations.
