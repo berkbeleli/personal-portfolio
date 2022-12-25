@@ -13,16 +13,16 @@ const Stack = () => {
         <li>SCSS/SASS</li>
         <li>JavaScript ES6+</li>
         <li>React.js</li>
-		<li>Typescript</li>
-		<li>Angular</li>
-		<li>Java</li>
-		<li>Spring Framework</li>
-		<li>MySQL</li>
-		<li>PHP</li>
+        <li>Typescript</li>
+        <li>Angular</li>
+        <li>Java</li>
+        <li>Spring Framework</li>
+        <li>MySQL</li>
+        <li>PHP</li>
         <li>RESTful API</li>
         <li>Figma</li>
         <li>Visual Studio Code</li>
-		<li>IntelliJ IDEA</li>
+        <li>IntelliJ IDEA</li>
       </ol>
     </React.Fragment>
   );
