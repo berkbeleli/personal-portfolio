@@ -9,7 +9,7 @@ const HomePage = () => {
 	document.title = "Berk Beleli | Personal Portfolio";
 	
 	return (
-		<document>
+		<document className="main-page">
 			<HeadPreview />
 			<PortfolioPreview />
 			<ContactPreview />

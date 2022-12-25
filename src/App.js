@@ -3,11 +3,11 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Home, Contact } from "./routes/index.js";
 import { Navigation } from './components/index';
 import "./core-ui/Styles.sass";
+import './routes/contact/Contact.sass'
 import './core-ui/Hover.sass';
 import './routes/home/Home.sass';
 import './components/footer/Footer.sass'
 import './components/navigation/Navigation.sass'
-import './routes/contact/Contact.sass'
 
 function App() {
   return (
