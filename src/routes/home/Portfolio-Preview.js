@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import ProjectsPreview from "./Projects-Preview";
 
 const PortfolioPreview = () => {
 	function resetLocation() {
@@ -16,7 +17,7 @@ const PortfolioPreview = () => {
 			<span>
 			  <a
 				href="https://github.com/berkbeleli?tab=repositories"
-				className="blue-text"
+				className="blue-text github-link"
 				target="_blank"
 				rel="noreferrer"
 			  >
@@ -25,6 +26,16 @@ const PortfolioPreview = () => {
 			</span>
 		  </p>
 		</section>
+		<ProjectsPreview />
+      <section>
+        <Link
+          onClick={resetLocation}
+          className="more-projects-btn blue-text"
+          to="/portfolio"
+        >
+          More projects
+        </Link>
+      </section>
 	  </article>
 	);
 }

@@ -10,7 +10,7 @@ const PortfolioDescription = () => {
 		  <span>
 			<a
 			  href="https://github.com/berkbeleli?tab=repositories"
-			  className="blue-text"
+			  className="blue-text github-link"
 			  target="_blank"
 			  rel="noreferrer"
 			>
