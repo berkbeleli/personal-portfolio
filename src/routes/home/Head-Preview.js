@@ -9,7 +9,7 @@ const HeadPreview = () => {
         <br></br>Computer Engineer
       </h1>
       <p className="gray-text p-tag">Full Stack Development</p>
-      <Link className="blue-text">Check my works</Link>
+      <Link className="blue-text" to="/portfolio">Check my works</Link>
     </article>
   );
 };
