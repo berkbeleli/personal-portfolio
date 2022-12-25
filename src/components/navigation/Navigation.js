@@ -1,5 +1,5 @@
 import Whiteham from "../../assets/images/three-line-white.png";
-import WhiteXham from "../../assets/images/x-white-icon.png";
+import WhiteXham from "../../assets/images/x-white-icon..png";
 import NavigationEmail from "./NavigationEmail";
 import NavigationHamburger from "./NavigationHamburger";
 import NavigationLogo from "./NavigationLogo";
