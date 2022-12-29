@@ -6,7 +6,7 @@ My personal <a href="https://berkbeleli.vercel.app/">portfolio</a> which feature
 
 ## Built With
 
-This project was built using these technologies:
+This project was built using these technologies: 
 
 - React.js
 - HTML
