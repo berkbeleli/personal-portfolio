@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/44535117/209483418-f26dfaeb-8cd0-4420-8f01-053eaa20d7f8.png?raw=true"><img/>
+<img src="https://user-images.githubusercontent.com/44535117/210275840-67755ba0-a84b-4fdc-a776-a93dae51353b.png?raw=true"><img/>
 
 # Personal Portfolio
 
