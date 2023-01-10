@@ -11,6 +11,7 @@ import './components/footer/Footer.sass';
 import './components/navigation/Navigation.sass';
 import './routes/portfolio/Portfolio.sass';
 import { Analytics } from '@vercel/analytics/react';
+import './components/skill/Skills.sass';
 
 function App() {
   return (

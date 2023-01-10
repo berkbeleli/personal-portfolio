@@ -1,6 +1,6 @@
 import { Footer } from "../../components/index.js";
 import AboutMe from "./AboutMe.js";
-import ScrollButton from "../../helpers/ScrollToTop";
+import ScrollButton from "../../components/ScrollButton";
 import Stack from "./Stack.js";
 import DownloadResume from "./DownloadResume.js";
 import WorkExperience from "./WorkExperience.js";
