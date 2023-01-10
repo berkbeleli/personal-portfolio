@@ -56,10 +56,28 @@ const EducationData = [
 
 const CertificationData = [
   {
+    name: "Developing Front-End Apps with React",
+    source: "IBM",
+    date: "Issued 2023 · No Expiration Date",
+    creditUrl: "https://www.coursera.org/account/accomplishments/certificate/KZR6GNU7MP6W",
+  },
+  {
+    name: "Developing Back-End Apps with Node.js and Express",
+    source: "IBM",
+    date: "Issued 2023 · No Expiration Date",
+    creditUrl: "https://www.coursera.org/account/accomplishments/certificate/NAXQLVSJQARB",
+  },
+  {
     name: "JavaScript Algorithms and Data Structures",
     source: "FreeCodeCamp",
     date: "Issued 2023 · No Expiration Date",
     creditUrl: "https://freecodecamp.org/certification/fcc6cfe11e2-cd7f-4622-8c68-a12a974c56fd/javascript-algorithms-and-data-structures",
+  },
+  {
+    name: "HTML Essential Training",
+    source: "Linkedin",
+    date: "Issued 2023 · No Expiration Date",
+    creditUrl: "https://www.linkedin.com/learning/certificates/2c064f6bd1a7ab6710736b43ff9e191ecf552fe84ee9198cd0ef3845425d7839",
   },
   {
     name: "React + Redux",
