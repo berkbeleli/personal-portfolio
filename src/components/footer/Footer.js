@@ -6,7 +6,7 @@ const Footer = () => {
 		  target="_blank"
 		  rel="noreferrer"
 		>
-		  Designed & Built by Berk &copy;2022
+		  Designed & Built by Berk &copy;2023
 		</a>
 	  </article>
 	);

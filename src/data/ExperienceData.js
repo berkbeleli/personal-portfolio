@@ -56,6 +56,12 @@ const EducationData = [
 
 const CertificationData = [
   {
+    name: "JavaScript Algorithms and Data Structures",
+    source: "FreeCodeCamp",
+    date: "Issued 2023 · No Expiration Date",
+    creditUrl: "https://freecodecamp.org/certification/fcc6cfe11e2-cd7f-4622-8c68-a12a974c56fd/javascript-algorithms-and-data-structures",
+  },
+  {
     name: "React + Redux",
     source: "Sololearn",
     date: "Issued 2022 · No Expiration Date",

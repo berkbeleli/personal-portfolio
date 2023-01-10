@@ -9,11 +9,13 @@ import './core-ui/Hover.sass';
 import './routes/home/Home.sass';
 import './components/footer/Footer.sass';
 import './components/navigation/Navigation.sass';
-import './routes/portfolio/Portfolio.sass'
+import './routes/portfolio/Portfolio.sass';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
    <Router>
+     <Analytics />
     <Navigation />
       <Routes>
           <Route path="/" element={<Home />}/>
