@@ -58,37 +58,6 @@
     padding: 2rem
     grid-column: span 3
 
-//STACK SECTION
-.stack-section
-    display: grid
-    grid-template-columns: repeat(2, 1fr)
-    column-gap: 2rem
-    row-gap: 1rem
-    margin-top: 5%
-    padding: 2rem
-
-    li
-        display: list-item
-        color: base.$white
-        font-family: base.$body-font
-        line-height: 1.5rem
-        text-align: left
-        font-weight: 100
-        font-size: 1.2rem
-    li::marker
-        content: counter(li) " > "
-        color: base.$navish
-        font-weight: 800
-        animation: color 0.3s ease-in-out infinite
-
-.stack-section
-    img
-        width: 3rem
-        max-width: 100%
-        cursor: pointer
-        transition: all 0.4s ease
-    @media (min-width: base.$sm-width)
-        gap: 1.5rem
 //WORK EXPERIENCE
 .work-experience, .education, .languages, .certification
     margin-top: 5%
