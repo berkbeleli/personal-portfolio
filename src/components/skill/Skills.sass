@@ -1,0 +1,51 @@
+@use  "../../core-ui/_base"
+	
+	
+.toolbox 
+  display: flex
+  flex-wrap: wrap
+  justify-content: center
+
+  &__tool 
+    margin: 2rem 1rem
+    display: flex
+    flex-direction: column
+    align-items: center
+    
+
+    perspective: 200rem
+    -moz-perspective: 200rem
+  
+
+  &__tool-logo 
+    width: 5rem
+    height: 5rem
+    border-radius: 50%
+    background-color: base.$darkgray
+
+    display: flex
+    align-items: center
+    justify-content: center
+
+    margin-bottom: 1.5rem
+
+    svg 
+      width: 2rem
+      height: 2rem
+      fill: base.$navish
+      // transform: translateY(1px)
+      backface-visibility: hidden
+      
+    
+  
+
+  &__tool-name 
+    font-weight: 500
+    color: base.$gray
+  
+  @media (max-width: base.$sm-width)
+      .toolbox__tool-logo
+            width: 4rem
+            height: 4rem
+      .toolbox__tool-name
+            font-size: 0.8rem
