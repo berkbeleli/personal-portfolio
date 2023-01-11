@@ -41,7 +41,14 @@
     display: inline
     transition: all 0.4s ease
 .nav-link:hover::after, .nav-link.active:hover::after,.nav-link.main-active:hover::after
-    content: "/>"
+    content: " />"
     color: base.$navish
     display: inline
     transition: all 0.4s ease
+.toolbox
+    .toolbox__tool-logo:hover
+        background-color: base.$navish
+        transition: all 0.4s ease
+
+        & .icon
+            fill: #fff
