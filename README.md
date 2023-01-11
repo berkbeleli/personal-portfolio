@@ -9,6 +9,7 @@ My personal <a href="https://berkbeleli.vercel.app/">portfolio</a> which feature
 This project was built using these technologies: 
 
 - React.js
+- React Icons
 - HTML
 - Sass
 - Github pages
